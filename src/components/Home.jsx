@@ -21,7 +21,7 @@ const Home = () => {
           Hireme
         </button>
         <button className="bg-white rounded-2xl p-3 mt-[10px] md:ml-[20px] sm:ml-[10px]  hover:cursor-pointer">
-          <a href="resume.pdf" download className="text-black font-semibold">
+          <a href="Resume1.pdf" download className="text-black font-semibold">
             download resume
           </a>
         </button>
