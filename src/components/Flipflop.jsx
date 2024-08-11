@@ -3,9 +3,6 @@ import { MdArrowDropDown } from "react-icons/md";
 // import { FaAngleUp } from "react-icons/fa6";
 import { FaSortUp } from "react-icons/fa6";
 // import data from '../assests/data';
-{
-  /* <FaAngleUp /> */
-}
 
 const Flipflop = (props) => {
   const [toggle, settoggle] = useState(false);

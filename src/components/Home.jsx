@@ -29,6 +29,7 @@ const Home = () => {
 
       <div className="right-cont h-[100%] md:w-[40%] ml-[20%] w-[60%] md:m-0">
         <img
+          alt="Self"
           src={Rahul}
           className="lg:h-[50%] lg:w-[60%] md:h-[40%] md:w-[80%] m-auto mt-[20vh] rounded-3xl md:block hidden "
         ></img>

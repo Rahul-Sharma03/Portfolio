@@ -1,4 +1,4 @@
-import React, { useRef } from "react";
+import React from "react";
 // import insta from "../assests/insta.png"
 import instagram from "../assests/instagram.png";
 // import linkedin from "../assests/linkedin.png"
@@ -55,6 +55,7 @@ const Contact = () => {
           className="cursor-pointer"
           href="https://www.instagram.com/sharma__2101_/"
           target="_blank"
+          rel="noreferrer"
         >
           <img
             src={instagram}
@@ -66,6 +67,7 @@ const Contact = () => {
           className="cursor-pointer"
           href="https://www.linkedin.com/in/rahul-sharma-a10b2b239/"
           target="_blank"
+          rel="noreferrer"
         >
           <img
             src={linkedin}
@@ -77,6 +79,7 @@ const Contact = () => {
           className="cursor-pointer"
           href="mailto:rahulasharma2101@gmail.com"
           target="_blank"
+          rel="noreferrer"
         >
           <img
             src={email}

@@ -11,7 +11,7 @@ const Navbar = () => {
     <div className="h-[10vh] w-[100%]  fixed top-0  flex items-center justify-between text-white z-10 p-10 backdrop-blur-lg font-thin ">
       <div className="logo bg-transparent ">
         {/* <h1 className="text-2xl cursor-pointer md:text-lg lg:text-xl">logo</h1> */}
-        <img src={logo} className="h-[40px] w-[40px] rounded-2xl"></img>
+        <img src={logo} alt="Logo" className="h-[40px] w-[40px] rounded-2xl"></img>
       </div>
 
       <div className="links  p-3 hidden md:block bg-transparent">
